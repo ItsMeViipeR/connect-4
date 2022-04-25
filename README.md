@@ -1,6 +1,6 @@
 # 🔴🔵 Power 4
 
-### This is a simple power 4 game wrote in native Rust.
+### This is a simple power 4 game written in native Rust.
 ### There's only one dependencie for colored terminal.
 
 ---
